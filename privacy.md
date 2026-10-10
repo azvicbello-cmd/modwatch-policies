@@ -5,9 +5,9 @@ title: ModWatch privacy policy
 
 # ModWatch privacy policy
 
-Public product name: **ModWatch**. Approved operator identity: **Victor Bello**. Final policy URL and effective date: **pending**.
+Public product name: **ModWatch**. Approved operator identity: **Victor Bello**. Hosted draft: https://azvicbello-cmd.github.io/modwatch-policies/privacy.html. Effective date: **pending operational verification**.
 
-Pre-release draft awaiting operational verification. Not effective or hosted yet. The user confirmed Victor Bello as the final approved operator identity. The user's GitHub account will host the separate `modwatch-policies` repository; it need not belong to the production Reddit account owner. A dated, approved copy is required before release. This draft describes the proposed privacy update, not private version `0.0.1.152`. Policies are prepared for GitHub Pages; if hosted there, page requests are also processed by GitHub under its policies. This does not give the ModWatch app an external data connection.
+Pre-release draft awaiting operational verification. Not effective yet. The user confirmed Victor Bello as the final approved operator identity. The user's GitHub account will host the separate `modwatch-policies` repository; it need not belong to the production Reddit account owner. A dated, approved copy is required before release. This draft describes the proposed privacy update, not private version `0.0.1.152`. Policies are prepared for GitHub Pages; if hosted there, page requests are also processed by GitHub under its policies. This does not give the ModWatch app an external data connection.
 
 ## Data and purpose
 

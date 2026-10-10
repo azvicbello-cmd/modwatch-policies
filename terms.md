@@ -5,9 +5,9 @@ title: ModWatch terms of use
 
 # ModWatch terms of use
 
-Public product name: **ModWatch**. Approved operator identity: **Victor Bello**. Final terms URL and effective date: **pending**.
+Public product name: **ModWatch**. Approved operator identity: **Victor Bello**. Hosted draft: https://azvicbello-cmd.github.io/modwatch-policies/terms.html. Effective date: **pending operational verification**.
 
-Pre-release draft awaiting operational verification. Not effective or hosted yet. The user confirmed Victor Bello as the final approved operator identity. The user's GitHub account will host the separate `modwatch-policies` repository; it need not belong to the production Reddit account owner. A dated, approved copy is required before release.
+Pre-release draft awaiting operational verification. Not effective yet. The user confirmed Victor Bello as the final approved operator identity. The user's GitHub account will host the separate `modwatch-policies` repository; it need not belong to the production Reddit account owner. A dated, approved copy is required before release.
 
 ModWatch is a community configuration-history tool for current Reddit moderators. Use it only in communities you are authorized to moderate, in accordance with Reddit's terms, rules, and Moderator Code of Conduct. ModWatch is independently operated and is not endorsed by Reddit.
 
